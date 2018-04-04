@@ -27,3 +27,11 @@ function johnLennonFacts(facts) {
     return array; 
   } 
   
+  function iLoveTheBeatles(n){
+  var beatles = [];
+  do {beatles.push('I love the Beatles!')*n
+    n++;
+  }
+ while (n<15);
+  return beatles}
+  
