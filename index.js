@@ -22,7 +22,7 @@ function johnLennonFacts(facts) {
       array.push("I love the Beatles!");
     }
     while (number < 15);
-    number
+    number++;
     return array; 
   } 
   
